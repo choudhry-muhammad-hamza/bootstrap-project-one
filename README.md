@@ -26,9 +26,9 @@ The project is created for practice and to improve frontend development skills.
 
 ## 📂 Project Structure
 
-index.html
-about.html
-contact.html
+- index.html
+- about.html
+- contact.html
 
 ---
 
